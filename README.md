@@ -1,0 +1,1 @@
+This repository contains the code, data and results described in our publication: Berson et al. "Effects of Mediterranean vs. Western Diets on the Cerebral Cortical Pre-Synaptic Proteome in Nonhuman Primates: Relationships with Transcriptome and Multi-System Phenotypes".
